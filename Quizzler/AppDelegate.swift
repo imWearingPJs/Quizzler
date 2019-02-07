@@ -3,7 +3,7 @@
 //  Quizzler
 //
 //  Created by Michael Kozub on 07/02/2019.
-//  Copyright (c) 2019 Michael Kozub. All rights reserved.
+//  Copyright (c) 2019 michaelkozub. All rights reserved.
 //
 
 import UIKit
