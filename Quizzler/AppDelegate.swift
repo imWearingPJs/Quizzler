@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Quizzler
 //
-//  Created by Angela Yu on 25/08/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Michael Kozub on 07/02/2019.
+//  Copyright (c) 2019 Michael Kozub. All rights reserved.
 //
 
 import UIKit
